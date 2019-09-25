@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "ServerMiningPool": {
-      "commandName": "Project",
-      "commandLineArgs": "-c ..\\..\\..\\config.json",
-      "nativeDebugging": true
-    }
-  }
-}
