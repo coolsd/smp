@@ -1,0 +1,2 @@
+# smp
+Server Mining Pool
